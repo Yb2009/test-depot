@@ -1,4 +1,4 @@
-class TableDeMultiplication:
+TESTclass TableDeMultiplication:
 
     def __init__(self, base=1, longueur=10):
        if base < 1:
