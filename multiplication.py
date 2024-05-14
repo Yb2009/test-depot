@@ -71,3 +71,5 @@ if __name__ == "__main__":
     print(table + TableDeMultiplication(3,3))
     print("Salut")
     print("Salut1")
+
+    test
